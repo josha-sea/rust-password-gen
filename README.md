@@ -9,13 +9,13 @@ Tested on Windows 10.
 
 ## Installing / Compiling
 Download or clone the git repo:
-<code> </code>
+- <code> git clone https://github.com/josha-sea/rust-password-gen.git</code>
 
 ## Usage
 
 After cloning or downloading the git repo, open a shell in the directory.
-Run:
-<code>cargo run</code>
+- Run: 
+- <code>cargo run</code>
 You will be promted to input a number between 9 and 255.
 After you press enter Enter, your new randomly generated password will be shown.
 
